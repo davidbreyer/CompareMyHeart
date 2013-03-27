@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderA" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FolderB" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SuccessMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Compare Complete.</Value>
+    </Setting>
+    <Setting Name="FailureMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Compare Cancelled.</Value>
+    </Setting>
+    <Setting Name="InvalidFolderMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">One or more directories are not valid.</Value>
+    </Setting>
+    <Setting Name="CompareStartMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Examining Folders...Please wait.</Value>
+    </Setting>
+    <Setting Name="ButtonReadyMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Verify Files</Value>
+    </Setting>
+    <Setting Name="ButtonExecutingMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Executing...</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
